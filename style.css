@@ -1,0 +1,35 @@
+h1{
+    color: darkred;
+    font-family:fantasy;
+}
+p{
+    color: gray;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+#div2{
+    background-color: cyan;
+    color: black;
+}
+.copy-right-foter{
+    color: darkred;
+    font-family: fantasy;
+    background-color:lightseagreen;
+    height: 95px;;
+    text-align:center;
+    color: darkred;
+    font-family: fantasy;
+    line-height: 2;
+    text-align:center;
+    padding-top: 20px;
+    text-shadow: 5px 5px 5px red;
+    width: 100%;
+    position: fixed;
+    font-size: 20px;
+}
+button{
+    width: 50%;
+    font-weight: bold;
+    color: black;
+}
